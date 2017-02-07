@@ -1,9 +1,9 @@
 {
   "video-id": 25313,
   "video-title": "Travelers 2016 S01E01 - Travelers",
-  "stream-sd": "https://amx.4553t5pugtt1qslvsnmpc0tpfz5fo.xyz/mp4sd.php?id=25313",
-  "stream-720p": "https://amx.4553t5pugtt1qslvsnmpc0tpfz5fo.xyz/mp4hd.php?id=25313",
-  "stream-1080p": "",
-  "stream-1440p": "",
-  "stream-2160p": ""
+  "stream-sd": "https://amx.4553t5pugtt1qslvsnmpc0tpfz5fo.xyz/vp9sd.php?id=25313",
+  "stream-720p": "https://amx.4553t5pugtt1qslvsnmpc0tpfz5fo.xyz/vp9720.php?id=25313",
+  "stream-1080p": "https://amx.4553t5pugtt1qslvsnmpc0tpfz5fo.xyz/vp91080.php?id=25313",
+  "stream-1440p": "https://amx.4553t5pugtt1qslvsnmpc0tpfz5fo.xyz/vp91440.php?id=25313",
+  "stream-2160p": "https://amx.4553t5pugtt1qslvsnmpc0tpfz5fo.xyz/vp94k.php?id=25313"
 }
