@@ -1,9 +1,9 @@
 {
   "video-id": 26343,
   "video-title": "Linkin Park - Lost In The Echo",
-  "stream-sd": "https://amx.4553t5pugtt1qslvsnmpc0tpfz5fo.xyz/mp4sd.php?id=26343",
-  "stream-720p": "https://amx.4553t5pugtt1qslvsnmpc0tpfz5fo.xyz/mp4hd.php?id=26343",
-  "stream-1080p": "",
+  "stream-sd": "https://amx.4553t5pugtt1qslvsnmpc0tpfz5fo.xyz/vp9sd.php?id=26343",
+  "stream-720p": "https://amx.4553t5pugtt1qslvsnmpc0tpfz5fo.xyz/vp9720.php?id=26343",
+  "stream-1080p": "https://amx.4553t5pugtt1qslvsnmpc0tpfz5fo.xyz/vp91080.php?id=26343",
   "stream-1440p": "",
   "stream-2160p": ""
 }
