@@ -1,9 +1,9 @@
 {
   "video-id": 1987,
-  "video-title": "Con Air 1997",
-  "stream-sd": "https://amx.4553t5pugtt1qslvsnmpc0tpfz5fo.xyz/mp4sd.php?id=1987",
-  "stream-720p": "",
-  "stream-1080p": "",
+  "video-title": "Con Air (1997)",
+  "stream-sd": "https://amx.4553t5pugtt1qslvsnmpc0tpfz5fo.xyz/vp9sd.php?id=1987",
+  "stream-720p": "https://amx.4553t5pugtt1qslvsnmpc0tpfz5fo.xyz/vp9720.php?id=1987",
+  "stream-1080p": "https://amx.4553t5pugtt1qslvsnmpc0tpfz5fo.xyz/vp91080.php?id=1987",
   "stream-1440p": "",
   "stream-2160p": ""
 }
